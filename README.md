@@ -155,7 +155,8 @@ Through this project I gained practical understanding of:
 
 ## Author
 
-Jayraj Baldaniya
+Axay Ram
+
 
 Electronics and Communication Engineering
 
